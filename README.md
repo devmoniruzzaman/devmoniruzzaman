@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Moniruzzaman</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmoniruzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="devmoniruzzaman" /> </p>
+<h3>About Me 👋</h3>
+<h4>I am a WordPress Developer with a huge love for PHP, Javascript, WooCommerce, Divi builder, Elementor builder. I'm open to work and employment opportunities. I have built/customized more than 250 WordPress websites. I love to do coding and singing song.</h4>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmoniruzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="devmoniruzzaman" /> </p>
 <p align="left"> <a href="https://twitter.com/devmoniruzzaman" target="blank"><img src="https://img.shields.io/twitter/follow/devmoniruzzaman?logo=twitter&style=for-the-badge" alt="devmoniruzzaman" /></a> </p>
 
 - 🌱 I’m currently learning **PHP, WordPress custom.**
@@ -11,9 +13,6 @@
 
 - 📄 Know about my experiences [https://mdmonir.net/](https://mdmonir.net/)
   
-<h3>About Me 👋</h3>
-<h3>I am a WordPress Developer with a huge love for PHP, Javascript, WooCommerce, Divi builder, Elementor builder. I'm open to work and employment opportunities. I have built/customized more than 250 WordPress websites. I love to do coding and singing song.</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/devmoniruzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="devmoniruzzaman" height="30" width="40" /></a>
