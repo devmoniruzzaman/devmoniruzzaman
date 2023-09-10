@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, Javascript, WordPress Custom.**
 
-- 💬 Ask me about **PHP, PHP, Javascript, JQuery, WORDPRESS, WordPress Custom, HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **PHP, Javascript, JQuery, WORDPRESS, WordPress Custom, HTML, CSS, BOOTSTRAP**
 
 - 📫 How to Contact me **developermd.monir@gmail.com**
 
