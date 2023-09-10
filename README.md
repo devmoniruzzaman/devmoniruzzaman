@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmoniruzzaman&label=Profile%20views&color=0e75b6&style=flat" alt="devmoniruzzaman" /> </p>
 <p align="left"> <a href="https://twitter.com/devmoniruzzaman" target="blank"><img src="https://img.shields.io/twitter/follow/devmoniruzzaman?logo=twitter&style=for-the-badge" alt="devmoniruzzaman" /></a> </p>
 
-- 🌱 I’m currently learning **PHP, WordPress Custom.**
+- 🌱 I’m currently learning **PHP, Javascript, WordPress Custom.**
 
 - 💬 Ask me about **PHP, JS, WORDPRESS, HTML, CSS, BOOTSTRAP**
 
