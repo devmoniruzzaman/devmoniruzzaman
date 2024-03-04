@@ -11,8 +11,6 @@
 - 💬 Ask me about **PHP, Javascript, JQuery, WORDPRESS, WordPress Custom, HTML, CSS, BOOTSTRAP**
 
 - 📫 How to Contact me **developermd.monir@gmail.com**
-
-- 📄 Know about my experiences [https://mdmonir.net/](https://mdmonir.net/)
   
 <h3 align="left">Connect with me:</h3>
 
